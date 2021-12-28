@@ -295,21 +295,18 @@
       "address": "Eiusmod dicta est a "
     },
     "balance": 50.00
-  }, {
-    "id": 19,
-    "fullName": "string",
-    "email": "string@co.cc",
-    "phone": "string",
-    "locationRegion": {
-      "id": 21,
-      "provinceId": "string",
-      "provinceName": "string",
-      "districtId": "string",
-      "districtName": "string",
-      "wardId": "string",
-      "wardName": "string",
-      "address": "string"
-    },
-    "balance": 0.00
+  }],
+  "transfers": [{
+    "id": 1,
+    "transactionAmount": 1100000000,
+    "transferAmount": 1000000000,
+    "senderId": 17,
+    "recipientId": 17,
+    "createdAt": "2021-12-12 19:12:39 +0700",
+    "feesAmount": 100000000,
+    "fees": 10,
+    "recipientName": "Kyla Wallace",
+    "senderName": "Kyla Wallace",
+    "createdOn": "2021-12-12 19:12:39 +0700"
   }]
 }
