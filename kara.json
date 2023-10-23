@@ -1,0 +1,229 @@
+{
+    "singers": [
+        {
+            "id": 1,
+            "fullName": "Phan Đình Tùng",
+            "avatar": ""
+        },
+        {
+            "id": 2,
+            "fullName": "Tuấn Hưng",
+            "avatar": ""
+        },
+        {
+            "id": 3,
+            "fullName": "Đàm Vĩnh Hưng",
+            "avatar": ""
+        },
+        {
+            "id": 4,
+            "fullName": "Khang Nguyên",
+            "avatar": ""
+        },
+        {
+            "id": 5,
+            "fullName": "Hoa Vinh",
+            "avatar": ""
+        }
+    ],
+    "songs": [
+        {
+            "id": 1,
+            "title": "Em nên dừng lại",
+            "titleSlug": "EM NEN DUNG LAI",
+            "shortTitle": "ENDL",
+            "moreTitle": "",
+            "youtubeId": "JXSuCS9S5z0",
+            "singer": {
+                "id": 1,
+                "fullName": "Khang vIỆT",
+                "nameSlug": "KHANG viet",
+                "shortName": "Kv"
+            },
+            "author": "Hồ Phong An",
+            "avatar": "http://i3.ytimg.com/vi/JXSuCS9S5z0/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JXSuCS9S5z0"
+        },
+        {
+            "id": 2,
+            "title": "Vì mẹ anh bắt chia tay",
+            "titleSlug": "VI ME ANH BAT CHIA TAY",
+            "shortTitle": "VMABCT",
+            "moreTitle": "",
+            "youtubeId": "Pnv7D6GkajY",
+            "singer": {
+                "id": 2,
+                "fullName": "MIU LÊ x KARIK x CHÂU ĐĂNG KHOA",
+                "nameSlug": "MIU LE KARIK CHAU DANG KHOA",
+                "shortName": "MLKCDK"
+            },
+            "author": "Châu Đăng Khoa",
+            "avatar": "http://i3.ytimg.com/vi/Pnv7D6GkajY/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Pnv7D6GkajY"
+        },
+        {
+            "id": 3,
+            "title": "Em Nên Dừng Lại Remix",
+            "titleSlug": "EM NEN DUNG LAI REMIX",
+            "shortTitle": "ENDLR",
+            "moreTitle": "(Haky Remix)",
+            "youtubeId": "fiw1_OzhWvc",
+            "singer": {
+                "id": 1,
+                "fullName": "Khang vIỆT",
+                "nameSlug": "KHANG viet",
+                "shortName": "Kv"
+            },
+            "author": "Hồ Phong An",
+            "avatar": "http://i3.ytimg.com/vi/fiw1_OzhWvc/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fiw1_OzhWvc"
+        },
+        {
+            "id": 4,
+            "title": "CHẠY VỀ NƠI PHÍA ANH",
+            "titleSlug": "CHAY VE PHIA NOI ANH",
+            "shortTitle": "CVPNA",
+            "moreTitle": "Official MV",
+            "youtubeId": "RaoBKCKIDAI",
+            "singer": {
+                "id": 3,
+                "fullName": "KHẮC VIỆT x Thảo Bebe",
+                "nameSlug": "KHANG VIET THAO BEBE",
+                "shortName": "KVTB"
+            },
+            "author": "Khắc Việt",
+            "avatar": "http://i3.ytimg.com/vi/RaoBKCKIDAI/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RaoBKCKIDAI"
+        },
+        {
+            "id": 5,
+            "title": "Dừng Lại Đây Thôi",
+            "titleSlug": "DUNG LAI DAY THOI",
+            "shortTitle": "DLDT",
+            "moreTitle": "Official Music Video",
+            "youtubeId": "amKc00_QHew",
+            "singer": {
+                "id": 4,
+                "fullName": "Hoa Vinh",
+                "nameSlug": "HOA VINH",
+                "shortName": "HV"
+            },
+            "author": "",
+            "avatar": "http://i3.ytimg.com/vi/amKc00_QHew/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=amKc00_QHew"
+        },
+        {
+            "id": 6,
+            "title": "Đừng Quên Tên Anh",
+            "titleSlug": "DUNG QUEN TEN ANH",
+            "shortTitle": "DQTA",
+            "moreTitle": "Official Music Video (4k)",
+            "youtubeId": "NIJHqNWMtAw",
+            "singer": {
+                "id": 4,
+                "fullName": "Hoa Vinh",
+                "nameSlug": "HOA VINH",
+                "shortName": "HV"
+            },
+            "author": "",
+            "avatar": "http://i3.ytimg.com/vi/NIJHqNWMtAw/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NIJHqNWMtAw"
+        },
+        {
+            "id": 7,
+            "title": "Ai Là Người Thương Em",
+            "titleSlug": "AI LA NGUOI THUONG EM",
+            "shortTitle": "ALNTE",
+            "moreTitle": "Official Music Video",
+            "youtubeId": "P_jk6caKnfA",
+            "singer": {
+                "id": 5,
+                "fullName": "Quân A.P",
+                "nameSlug": "QUAN A P",
+                "shortName": "QAP"
+            },
+            "author": "",
+            "avatar": "http://i3.ytimg.com/vi/P_jk6caKnfA/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=P_jk6caKnfA"
+        },
+        {
+            "id": 8,
+            "title": "Cánh hồng phai",
+            "titleSlug": "CANH HONG PHAI",
+            "shortTitle": "CHP",
+            "moreTitle": "Beat chuẩn",
+            "youtubeId": "-dBz8kMPplg",
+            "singer": {
+                "id": 6,
+                "fullName": "Trấn Thành",
+                "nameSlug": "TRAN THANH",
+                "shortName": "TT"
+            },
+            "author": "",
+            "avatar": "http://i3.ytimg.com/vi/-dBz8kMPplg/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-dBz8kMPplg"
+        },
+        {
+            "id": 9,
+            "title": "Ít Nhưng Dài Lâu",
+            "titleSlug": "IT NHUNG LAI LAU",
+            "shortTitle": "INDL",
+            "moreTitle": "Karaoke Beat Chuẩn - Tone Nam (Abm) Beat by TàiZ",
+            "youtubeId": "5QmxIW-YWa0",
+            "singer": {
+                "id": 7,
+                "fullName": "Chu Thúy Quỳnh",
+                "nameSlug": "CHU THUY QUYNH",
+                "shortName": "CTQ"
+            },
+            "author": "",
+            "avatar": "http://i3.ytimg.com/vi/5QmxIW-YWa0/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5QmxIW-YWa0"
+        },
+        {
+            "id": 10,
+            "title": "CHUYỆN HOA SIM",
+            "titleSlug": "CHUYEN HOA SIM",
+            "shortTitle": "CHS",
+            "moreTitle": "",
+            "youtubeId": "cgdpUot6sW8",
+            "singer": {
+                "id": 8,
+                "fullName": "Đan Nguyên",
+                "nameSlug": "DAN NGUYEN",
+                "shortName": "DN"
+            },
+            "author": "",
+            "avatar": "http://i3.ytimg.com/vi/cgdpUot6sW8/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cgdpUot6sW8"
+        },
+        {
+            "id": 11,
+            "title": "Vì Đó Là Em ",
+            "titleSlug": "VI DO LA EM",
+            "shortTitle": "VDLE",
+            "moreTitle": "[Beat chuẩn]",
+            "youtubeId": "8At6ZxyI0RE",
+            "singer": {
+                "id": 9,
+                "fullName": "QUANG DŨNG",
+                "nameSlug": "QUANG DUNG",
+                "shortName": "QD"
+            },
+            "author": "",
+            "avatar": "http://i3.ytimg.com/vi/8At6ZxyI0RE/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8At6ZxyI0RE"
+        },
+        {
+            "title": "Nghĩa san",
+            "titleSlug": "nghia-san",
+            "shortTitle": "Nghĩa san",
+            "moreTitle": "Nghĩa san",
+            "singer": 1,
+            "author": "Nghĩa Author",
+            "avatar": "http://i3.ytimg.com/vi/8At6ZxyI0RE/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EGVhrE6VuNM",
+            "id": 12
+        }
+    ]
+}
